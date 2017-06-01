@@ -29,7 +29,7 @@
 	<preference name="target-device"              value="handset" />
 	<preference name="fullscreen" value="true" />
 	<preference name="webviewbounce" value="true" />  
-	<preference name="DisallowOverscroll" value="true" />
+	<preference name="DisallowOverscroll" value="false" />
 	<preference name="stay-in-webview"            value="true" /> 
 
 <preference name="exit-on-suspend"            value="false" />          
